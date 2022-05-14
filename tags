@@ -4,7 +4,7 @@
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/jelly/Documents/learn/blogs/notpure-theme.github.io/	//
+!_TAG_PROC_CWD	/home/jelly/Documents/learn/blogs/iayu93.github.io/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
@@ -855,6 +855,8 @@ $	_site/assets/js/plugins/jquery.ba-throttle-debounce.js	/^  var $ = window.jQue
 .wide .sidebar__right	_site/assets/css/main.css	/^@media (min-width: 80em) { .wide .sidebar__right { width: initial; margin-right: initial; } }$/;"	c
 .wide .sidebar__right.sticky	_site/assets/css/main.css	/^  .wide .sidebar__right.sticky { float: none; } }$/;"	c
 .wrapper	_site/assets/css/main.css	/^.wrapper { margin-left: auto; margin-right: auto; width: 100%; }$/;"	c
+2022	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <h2 class="archive__subtitle">2022<\/h2>$/;"	i
+2022	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^  <section id="2022" class="taxonomy__section">$/;"	I
 404	404.html	/^  <h1>404<\/h1>$/;"	h
 404	_site/404.html	/^  <h1>404<\/h1>$/;"	h
 :-webkit-full-screen-ancestor .masthead	_site/assets/css/main.css	/^:-webkit-full-screen-ancestor .masthead, :-webkit-full-screen-ancestor .page__footer { position:/;"	c
@@ -2131,6 +2133,8 @@ Ve	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof mo
 Vector	_site/assets/js/lunr/lunr.js	/^lunr.Vector = function (elements) {$/;"	c	class:lunr
 Vector	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	c	class:e
 Welcome to Jekyll!	_site/index.html	/^    <\/h2>$/;"	i
+Welcome to Jekyll!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome to Jekyll!<\/h1>$/;"	h
+Welcome to Jekyll!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
 X	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Xt	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Y	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c
@@ -2482,8 +2486,10 @@ fn	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^				fn = function( elem, _key
 fn	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^		fn = function( event ) {$/;"	f	function:on
 fn	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^	jQuery.fn[ name ] = function( until, selector ) {$/;"	f	function:jQuery
 footer	_site/404.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/about/index.html	/^    <div id="footer" class="page__footer">$/;"	I
 footer	_site/assets/css/main.css	/^article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section { displa/;"	s
 footer	_site/index.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <div id="footer" class="page__footer">$/;"	I
 forEach	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:Array
 forEach	_site/assets/js/plugins/gumshoe.js	/^			Array.prototype.forEach.call(navItems, (function (item) {$/;"	m	class:Array
 forEach	_site/assets/js/plugins/gumshoe.js	/^		Array.prototype.forEach.call(arguments, (function (obj) {$/;"	m	class:Array
@@ -2755,6 +2761,7 @@ magnitude	_site/assets/js/lunr/lunr.js	/^lunr.Vector.prototype.magnitude = funct
 magnitude	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.Vector
 main	_site/assets/css/main.css	/^article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section { displa/;"	s
 main	_site/index.html	/^<div id="main" role="main">$/;"	I
+main	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^<div id="main" role="main">$/;"	I
 manipulationTarget	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function manipulationTarget( elem, content ) {$/;"	f
 marginRight	_site/assets/js/plugins/jquery.magnific-popup.js	/^        var windowStyles = {marginRight: ''};$/;"	p	class:AnonymousFunctionca11c4df1200.windowStyles
 markFunction	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function markFunction( fn ) {$/;"	f
@@ -2838,6 +2845,7 @@ p > code	_site/assets/css/main.css	/^p > code, a > code, li > code, figcaption >
 p > code:after	_site/assets/css/main.css	/^p > code:before, p > code:after, a > code:before, a > code:after, li > code:before, li > code:af/;"	s
 p > code:before	_site/assets/css/main.css	/^p > code:before, p > code:after, a > code:before, a > code:after, li > code:before, li > code:af/;"	s
 page-title	_site/index.html	/^      <h1 id="page-title" class="page__title"><\/h1>$/;"	I
+page-title	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome to Jekyll!<\/h1>$/;"	I
 parentOffset	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^			parentOffset = { top: 0, left: 0 };$/;"	c	class:AnonymousFunctionf615336f19d00
 parse	_site/assets/js/lunr/lunr.js	/^lunr.QueryParser.prototype.parse = function () {$/;"	m	class:lunr.QueryParser
 parse	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.QueryParser
@@ -2964,7 +2972,9 @@ siblingCheck	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function siblingChe
 similarity	_site/assets/js/lunr/lunr.js	/^lunr.Vector.prototype.similarity = function (otherVector) {$/;"	m	class:lunr.Vector
 similarity	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.Vector
 site-nav	_site/404.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/about/index.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
 site-nav	_site/index.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
 sliceString	_site/assets/js/lunr/lunr.js	/^lunr.QueryLexer.prototype.sliceString = function () {$/;"	m	class:lunr.QueryLexer
 sliceString	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.QueryLexer
 small	_site/assets/css/main.css	/^small, .small { font-size: 0.75em; }$/;"	s
