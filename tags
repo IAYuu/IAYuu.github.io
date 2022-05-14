@@ -1,0 +1,285 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/jelly/Documents/learn/blogs/notpure-theme.github.io/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+*	_site/assets/styles.css	/^* {$/;"	s
+.align-center	_site/assets/styles.css	/^.align-center {$/;"	c
+.align-left	_site/assets/styles.css	/^.align-left {$/;"	c
+.align-right	_site/assets/styles.css	/^.align-right {$/;"	c
+.avatar-image	_site/assets/styles.css	/^  .avatar-image {$/;"	c
+.avatar-image	_site/assets/styles.css	/^.avatar-image {$/;"	c
+.back-to-top	_site/assets/styles.css	/^.back-to-top {$/;"	c
+.colors	_site/assets/styles.css	/^.colors {$/;"	c
+.colors dd	_site/assets/styles.css	/^  .colors dd {$/;"	s
+.colors dt	_site/assets/styles.css	/^  .colors dt {$/;"	s
+.comment-count	_site/assets/styles.css	/^.comment-count {$/;"	c
+.comment-count:focus	_site/assets/styles.css	/^  .comment-count:hover, .comment-count:focus {$/;"	c
+.comment-count:hover	_site/assets/styles.css	/^  .comment-count:hover, .comment-count:focus {$/;"	c
+.container	_site/assets/styles.css	/^.container {$/;"	c
+.content	_site/assets/styles.css	/^  .content {$/;"	c
+.content	_site/assets/styles.css	/^.content {$/;"	c
+.footnotes	_site/assets/styles.css	/^.footnotes {$/;"	c
+.gist .markdown-body	_site/assets/styles.css	/^.gist .markdown-body {$/;"	c
+.highlight	_site/assets/styles.css	/^  .highlight, .highlight .w {$/;"	c
+.highlight	_site/assets/styles.css	/^.highlight {$/;"	c
+.highlight	_site/assets/styles.css	/^.highlight, .highlight .w {$/;"	c
+.highlight .c	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .c	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .c1	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .c1	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .cd	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .cd	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .ch	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .ch	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .cm	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .cm	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .cp	_site/assets/styles.css	/^  .highlight .cp {$/;"	c
+.highlight .cp	_site/assets/styles.css	/^.highlight .cp {$/;"	c
+.highlight .cpf	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .cpf	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .cs	_site/assets/styles.css	/^  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1/;"	c
+.highlight .cs	_site/assets/styles.css	/^.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, /;"	c
+.highlight .dl	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .dl	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .err	_site/assets/styles.css	/^  .highlight .err {$/;"	c
+.highlight .err	_site/assets/styles.css	/^.highlight .err {$/;"	c
+.highlight .gd	_site/assets/styles.css	/^  .highlight .gd {$/;"	c
+.highlight .gd	_site/assets/styles.css	/^.highlight .gd {$/;"	c
+.highlight .gh	_site/assets/styles.css	/^  .highlight .gh {$/;"	c
+.highlight .gh	_site/assets/styles.css	/^.highlight .gh {$/;"	c
+.highlight .gi	_site/assets/styles.css	/^  .highlight .gi {$/;"	c
+.highlight .gi	_site/assets/styles.css	/^.highlight .gi {$/;"	c
+.highlight .highlight	_site/assets/styles.css	/^  .highlight .highlight {$/;"	c
+.highlight .il	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .il	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .k	_site/assets/styles.css	/^  .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .k	_site/assets/styles.css	/^.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kc	_site/assets/styles.css	/^  .highlight .kc {$/;"	c
+.highlight .kc	_site/assets/styles.css	/^.highlight .kc {$/;"	c
+.highlight .kd	_site/assets/styles.css	/^  .highlight .kd {$/;"	c
+.highlight .kd	_site/assets/styles.css	/^.highlight .kd {$/;"	c
+.highlight .kn	_site/assets/styles.css	/^  .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kn	_site/assets/styles.css	/^.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kp	_site/assets/styles.css	/^  .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kp	_site/assets/styles.css	/^.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kr	_site/assets/styles.css	/^  .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kr	_site/assets/styles.css	/^.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kt	_site/assets/styles.css	/^  .highlight .kt {$/;"	c
+.highlight .kt	_site/assets/styles.css	/^.highlight .kt {$/;"	c
+.highlight .kv	_site/assets/styles.css	/^  .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .kv	_site/assets/styles.css	/^.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {$/;"	c
+.highlight .m	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .m	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .mb	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .mb	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .mf	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .mf	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .mh	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .mh	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .mi	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .mi	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .mo	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .mo	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .mx	_site/assets/styles.css	/^  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il,/;"	c
+.highlight .mx	_site/assets/styles.css	/^.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, ./;"	c
+.highlight .na	_site/assets/styles.css	/^  .highlight .na {$/;"	c
+.highlight .na	_site/assets/styles.css	/^.highlight .na {$/;"	c
+.highlight .nc	_site/assets/styles.css	/^  .highlight .nc {$/;"	c
+.highlight .nc	_site/assets/styles.css	/^.highlight .nc {$/;"	c
+.highlight .nn	_site/assets/styles.css	/^  .highlight .nn {$/;"	c
+.highlight .nn	_site/assets/styles.css	/^.highlight .nn {$/;"	c
+.highlight .no	_site/assets/styles.css	/^  .highlight .no {$/;"	c
+.highlight .no	_site/assets/styles.css	/^.highlight .no {$/;"	c
+.highlight .nt	_site/assets/styles.css	/^  .highlight .nt {$/;"	c
+.highlight .nt	_site/assets/styles.css	/^.highlight .nt {$/;"	c
+.highlight .o	_site/assets/styles.css	/^  .highlight .o, .highlight .ow {$/;"	c
+.highlight .o	_site/assets/styles.css	/^.highlight .o, .highlight .ow {$/;"	c
+.highlight .ow	_site/assets/styles.css	/^  .highlight .o, .highlight .ow {$/;"	c
+.highlight .ow	_site/assets/styles.css	/^.highlight .o, .highlight .ow {$/;"	c
+.highlight .p	_site/assets/styles.css	/^  .highlight .p, .highlight .pi {$/;"	c
+.highlight .p	_site/assets/styles.css	/^.highlight .p, .highlight .pi {$/;"	c
+.highlight .pi	_site/assets/styles.css	/^  .highlight .p, .highlight .pi {$/;"	c
+.highlight .pi	_site/assets/styles.css	/^.highlight .p, .highlight .pi {$/;"	c
+.highlight .s	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .s	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .s1	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .s1	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .s2	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .s2	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .sa	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .sa	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .sb	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .sb	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .sc	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .sc	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .sd	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .sd	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .se	_site/assets/styles.css	/^  .highlight .se {$/;"	c
+.highlight .se	_site/assets/styles.css	/^.highlight .se {$/;"	c
+.highlight .sh	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .sh	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .si	_site/assets/styles.css	/^  .highlight .si {$/;"	c
+.highlight .si	_site/assets/styles.css	/^.highlight .si {$/;"	c
+.highlight .sr	_site/assets/styles.css	/^  .highlight .sr {$/;"	c
+.highlight .sr	_site/assets/styles.css	/^.highlight .sr {$/;"	c
+.highlight .ss	_site/assets/styles.css	/^  .highlight .ss {$/;"	c
+.highlight .ss	_site/assets/styles.css	/^.highlight .ss {$/;"	c
+.highlight .sx	_site/assets/styles.css	/^  .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd,/;"	c
+.highlight .sx	_site/assets/styles.css	/^.highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, ./;"	c
+.highlight .w	_site/assets/styles.css	/^  .highlight, .highlight .w {$/;"	c
+.highlight .w	_site/assets/styles.css	/^.highlight, .highlight .w {$/;"	c
+.highlight pre	_site/assets/styles.css	/^  .highlight pre {$/;"	s
+.highlight table pre	_site/assets/styles.css	/^  .highlight table pre {$/;"	s
+.highlight table pre	_site/assets/styles.css	/^.highlight table pre {$/;"	s
+.highlight table td	_site/assets/styles.css	/^  .highlight table td {$/;"	s
+.highlight table td	_site/assets/styles.css	/^.highlight table td {$/;"	s
+.home-header	_site/assets/styles.css	/^  .home-header {$/;"	c
+.home-header	_site/assets/styles.css	/^.home-header {$/;"	c
+.home-header-bar	_site/assets/styles.css	/^.home-header-bar {$/;"	c
+.home-header-menu .current-item	_site/assets/styles.css	/^.home-header-menu .current-item {$/;"	c
+.home-header-menu a	_site/assets/styles.css	/^.home-header-menu a {$/;"	s
+.home-header-menu a:focus	_site/assets/styles.css	/^  .home-header-menu a:hover, .home-header-menu a:focus {$/;"	s
+.home-header-menu a:hover	_site/assets/styles.css	/^  .home-header-menu a:hover, .home-header-menu a:focus {$/;"	s
+.lead	_site/assets/styles.css	/^.lead {$/;"	c
+.masthead	_site/assets/styles.css	/^.masthead {$/;"	c
+.masthead a	_site/assets/styles.css	/^  .masthead a {$/;"	s
+.masthead-tagline	_site/assets/styles.css	/^.masthead-tagline {$/;"	c
+.masthead-title	_site/assets/styles.css	/^.masthead-title {$/;"	c
+.masthead-title a:focus	_site/assets/styles.css	/^  .masthead-title a:focus {$/;"	s
+.masthead-title a:hover	_site/assets/styles.css	/^  .masthead-title a:hover,$/;"	s
+.message	_site/assets/styles.css	/^.message {$/;"	c
+.navigation-item	_site/assets/styles.css	/^.navigation-item {$/;"	c
+.navigation-item a	_site/assets/styles.css	/^.navigation-item a {$/;"	s
+.navigation-item a:focus	_site/assets/styles.css	/^  .navigation-item a:hover, .navigation-item a:focus {$/;"	s
+.navigation-item a:hover	_site/assets/styles.css	/^  .navigation-item a:hover, .navigation-item a:focus {$/;"	s
+.navigation-list	_site/assets/styles.css	/^.navigation-list {$/;"	c
+.page	_site/assets/styles.css	/^.page,$/;"	c
+.page .post-meta	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	c
+.page h1	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	s
+.page h2	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	s
+.page h3	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	s
+.page h4	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	s
+.page h5	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	s
+.page h6	_site/assets/styles.css	/^  .page h1, .page h2, .page h3, .page h4, .page h5, .page h6, .page .post-meta,$/;"	s
+.page li + li	_site/assets/styles.css	/^  .page li + li,$/;"	s
+.page-title	_site/assets/styles.css	/^.page-title,$/;"	c
+.pagination	_site/assets/styles.css	/^  .pagination {$/;"	c
+.pagination	_site/assets/styles.css	/^.pagination {$/;"	c
+.pagination-item	_site/assets/styles.css	/^  .pagination-item {$/;"	c
+.pagination-item	_site/assets/styles.css	/^.pagination-item {$/;"	c
+.pagination-item:first-child	_site/assets/styles.css	/^    .pagination-item:first-child {$/;"	c
+.pagination-item:first-child	_site/assets/styles.css	/^  .pagination-item:first-child {$/;"	c
+.pagination-item:last-child	_site/assets/styles.css	/^    .pagination-item:last-child {$/;"	c
+.post	_site/assets/styles.css	/^.post {$/;"	c
+.post .post-meta	_site/assets/styles.css	/^  .post .post-meta {$/;"	c
+.post h1	_site/assets/styles.css	/^  .post h1,$/;"	s
+.post h2	_site/assets/styles.css	/^  .post h2,$/;"	s
+.post h3	_site/assets/styles.css	/^  .post h3,$/;"	s
+.post h4	_site/assets/styles.css	/^  .post h4,$/;"	s
+.post h5	_site/assets/styles.css	/^  .post h5,$/;"	s
+.post h6	_site/assets/styles.css	/^  .post h6,$/;"	s
+.post li + li	_site/assets/styles.css	/^  .post li + li {$/;"	s
+.post-entry	_site/assets/styles.css	/^.post-entry {$/;"	c
+.post-list-by-taxonomy time	_site/assets/styles.css	/^.post-list-by-taxonomy time {$/;"	s
+.post-meta	_site/assets/styles.css	/^.post-meta {$/;"	c
+.post-tag	_site/assets/styles.css	/^.post-tag {$/;"	c
+.post-tags	_site/assets/styles.css	/^.post-tags {$/;"	c
+.post-tags li	_site/assets/styles.css	/^  .post-tags li {$/;"	s
+.post-tags li a	_site/assets/styles.css	/^    .post-tags li a {$/;"	s
+.post-tags li a:focus	_site/assets/styles.css	/^      .post-tags li a:hover, .post-tags li a:focus {$/;"	s
+.post-tags li a:hover	_site/assets/styles.css	/^      .post-tags li a:hover, .post-tags li a:focus {$/;"	s
+.post-tags-icon	_site/assets/styles.css	/^.post-tags-icon {$/;"	c
+.post-tags-section	_site/assets/styles.css	/^.post-tags-section {$/;"	c
+.post-title	_site/assets/styles.css	/^.post-title {$/;"	c
+.post-title a	_site/assets/styles.css	/^.post-title a {$/;"	s
+.post-title a:focus	_site/assets/styles.css	/^  .post-title a:hover, .post-title a:focus {$/;"	s
+.post-title a:hover	_site/assets/styles.css	/^  .post-title a:hover, .post-title a:focus {$/;"	s
+.related	_site/assets/styles.css	/^.related {$/;"	c
+.related-posts	_site/assets/styles.css	/^.related-posts {$/;"	c
+.related-posts a	_site/assets/styles.css	/^  .related-posts a {$/;"	s
+.related-posts a small	_site/assets/styles.css	/^    .related-posts a small {$/;"	s
+.related-posts h3	_site/assets/styles.css	/^  .related-posts h3 {$/;"	s
+.rouge-table	_site/assets/styles.css	/^  .rouge-table,$/;"	c
+.rouge-table	_site/assets/styles.css	/^.rouge-table {$/;"	c
+.rouge-table .gutter	_site/assets/styles.css	/^  .rouge-table .gutter {$/;"	c
+.rouge-table td	_site/assets/styles.css	/^  .rouge-table td,$/;"	s
+.rouge-table th	_site/assets/styles.css	/^  .rouge-table th {$/;"	s
+.sidebar-left	_site/assets/styles.css	/^  .sidebar-left {$/;"	c
+.sidebar-left	_site/assets/styles.css	/^.sidebar-left {$/;"	c
+.sidebar-right	_site/assets/styles.css	/^  .sidebar-right {$/;"	c
+.social	_site/assets/styles.css	/^.social {$/;"	c
+.social-icon	_site/assets/styles.css	/^.social-icon {$/;"	c
+.social-icon:focus	_site/assets/styles.css	/^  .social-icon:hover, .social-icon:focus {$/;"	c
+.social-icon:hover	_site/assets/styles.css	/^  .social-icon:hover, .social-icon:focus {$/;"	c
+.taxonomies	_site/assets/styles.css	/^  .taxonomies {$/;"	c
+.taxonomies	_site/assets/styles.css	/^.taxonomies {$/;"	c
+.taxonomies .taxonomy	_site/assets/styles.css	/^  .taxonomies .taxonomy {$/;"	c
+.taxonomies-wrapper	_site/assets/styles.css	/^.taxonomies-wrapper {$/;"	c
+.toc-nav	_site/assets/styles.css	/^.toc-nav {$/;"	c
+.toc-nav a	_site/assets/styles.css	/^  .toc-nav a {$/;"	s
+.toc-nav li ul li a	_site/assets/styles.css	/^  .toc-nav li ul li a {$/;"	s
+.toc-nav ul	_site/assets/styles.css	/^  .toc-nav ul {$/;"	s
+.toc-nav ul li	_site/assets/styles.css	/^    .toc-nav ul li {$/;"	s
+.toc-nav ul li a	_site/assets/styles.css	/^      .toc-nav ul li a {$/;"	s
+.toc-title	_site/assets/styles.css	/^.toc-title {$/;"	c
+.toc-wrapper	_site/assets/styles.css	/^.toc-wrapper {$/;"	c
+404	404.html	/^  <h1>404<\/h1>$/;"	h
+404	_site/404.html	/^  <h1>404<\/h1>$/;"	h
+:root	_site/assets/styles.css	/^  :root {$/;"	s
+:root	_site/assets/styles.css	/^:root {$/;"	s
+About	_site/about/index.html	/^  <h1 class="page-title">About<\/h1>$/;"	h
+Welcome to Jekyll!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^  <h1 class="post-title">Welcome to Jekyll!<\/h1>$/;"	h
+a	_site/assets/styles.css	/^a {$/;"	s
+a strong	_site/assets/styles.css	/^  a strong {$/;"	s
+a.pagination-item:hover	_site/assets/styles.css	/^a.pagination-item:hover {$/;"	c
+a:focus	_site/assets/styles.css	/^  a:hover, a:focus {$/;"	s
+a:hover	_site/assets/styles.css	/^  a:hover, a:focus {$/;"	s
+a[href^="#fn:"]	_site/assets/styles.css	/^a[href^="#fn:"],$/;"	s
+a[href^="#fnref:"]	_site/assets/styles.css	/^a[href^="#fnref:"] {$/;"	s
+abbr	_site/assets/styles.css	/^abbr {$/;"	s
+abbr[title]	_site/assets/styles.css	/^  abbr[title] {$/;"	s
+blockquote	_site/assets/styles.css	/^    blockquote {$/;"	s
+blockquote	_site/assets/styles.css	/^blockquote {$/;"	s
+blockquote p:last-child	_site/assets/styles.css	/^  blockquote p:last-child {$/;"	s
+body	_site/assets/styles.css	/^body {$/;"	s
+code	_site/assets/styles.css	/^code {$/;"	s
+code	_site/assets/styles.css	/^code,$/;"	s
+dd	_site/assets/styles.css	/^dd {$/;"	s
+dl	_site/assets/styles.css	/^ul, ol, dl {$/;"	s
+dt	_site/assets/styles.css	/^dt {$/;"	s
+figcaption.align-center	_site/assets/styles.css	/^figcaption.align-center {$/;"	c
+figcaption.align-left	_site/assets/styles.css	/^figcaption.align-left {$/;"	c
+figcaption.align-right	_site/assets/styles.css	/^figcaption.align-right {$/;"	c
+figure	_site/assets/styles.css	/^figure {$/;"	s
+footer	_site/assets/styles.css	/^footer {$/;"	s
+h1	_site/assets/styles.css	/^h1 {$/;"	s
+h1	_site/assets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	_site/assets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	_site/assets/styles.css	/^h2 {$/;"	s
+h3	_site/assets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	_site/assets/styles.css	/^h3 {$/;"	s
+h4	_site/assets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	_site/assets/styles.css	/^h4 {$/;"	s
+h5	_site/assets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	_site/assets/styles.css	/^h5 {$/;"	s
+h6	_site/assets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	_site/assets/styles.css	/^h6 {$/;"	s
+hr	_site/assets/styles.css	/^hr {$/;"	s
+img	_site/assets/styles.css	/^img {$/;"	s
+mark	_site/assets/styles.css	/^mark {$/;"	s
+nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	uri:http://www.w3.org/2005/Atom
+ol	_site/assets/styles.css	/^ul, ol, dl {$/;"	s
+p	_site/assets/styles.css	/^p {$/;"	s
+pre	_site/assets/styles.css	/^pre {$/;"	s
+table	_site/assets/styles.css	/^table {$/;"	s
+td	_site/assets/styles.css	/^td,$/;"	s
+th	_site/assets/styles.css	/^th {$/;"	s
+thead th	_site/assets/styles.css	/^thead th {$/;"	s
+ul	_site/assets/styles.css	/^ul, ol, dl {$/;"	s
