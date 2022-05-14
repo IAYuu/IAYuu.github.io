@@ -6,7 +6,6 @@ avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
-remote-theme: vszhub/not-pure-poole
 
 # Gems
 plugins:
@@ -17,6 +16,7 @@ plugins:
   - jekyll-sitemap
   - not-pure-poole
   - jekyll-remote-theme
+remote-theme: vszhub/not-pure-poole
 
 # Optimize Jekyll
 exclude:
