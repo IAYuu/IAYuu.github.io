@@ -35,6 +35,7 @@ remote_theme: vszhub/not-pure-poole
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - not-pure-poole
 
 # Exclude from processing.
 # The following items will not be processed, by default.
