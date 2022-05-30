@@ -855,9 +855,17 @@ $	_site/assets/js/plugins/jquery.ba-throttle-debounce.js	/^  var $ = window.jQue
 .wide .sidebar__right	_site/assets/css/main.css	/^@media (min-width: 80em) { .wide .sidebar__right { width: initial; margin-right: initial; } }$/;"	c
 .wide .sidebar__right.sticky	_site/assets/css/main.css	/^  .wide .sidebar__right.sticky { float: none; } }$/;"	c
 .wrapper	_site/assets/css/main.css	/^.wrapper { margin-left: auto; margin-right: auto; width: 100%; }$/;"	c
+1 基础	_site/_pages/index.html	/^    <\/h2>$/;"	i
+1 基础	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+1 基础	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+2 发送请求	_site/_pages/index.html	/^    <\/h2>$/;"	i
+2 发送请求	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+2 发送请求	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+2022	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <h2 class="archive__subtitle">2022<\/h2>$/;"	i
+2022	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^  <section id="2022" class="taxonomy__section">$/;"	I
 2022	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <h2 class="archive__subtitle">2022<\/h2>$/;"	i
 2022	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^  <section id="2022" class="taxonomy__section">$/;"	I
-404	404.html	/^  <h1>404<\/h1>$/;"	h
+404	_pages/404.html	/^  <h1>404<\/h1>$/;"	h
 404	_site/404.html	/^  <h1>404<\/h1>$/;"	h
 :-webkit-full-screen-ancestor .masthead	_site/assets/css/main.css	/^:-webkit-full-screen-ancestor .masthead, :-webkit-full-screen-ancestor .page__footer { position:/;"	c
 :-webkit-full-screen-ancestor .page__footer	_site/assets/css/main.css	/^:-webkit-full-screen-ancestor .masthead, :-webkit-full-screen-ancestor .page__footer { position:/;"	c
@@ -2069,6 +2077,9 @@ Ee	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof mo
 Et	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 FieldRef	_site/assets/js/lunr/lunr.js	/^lunr.FieldRef = function (docRef, fieldName, stringValue) {$/;"	c	class:lunr
 FieldRef	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	c	class:e
+Flask 基础	_drafts/flask/1-基础.md	/^### Flask 基础$/;"	S
+Flask 基础	_drafts/flask/_site/1-基础.html	/^<h3 id="flask-基础">Flask 基础<\/h3>$/;"	j
+Flask 基础	_site/2022/05/30/1-基础.html	/^        <h3 id="flask-基础">Flask 基础<\/h3>$/;"	j
 Ge	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 H	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 He	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -2108,7 +2119,7 @@ QueryParser	_site/assets/js/lunr/lunr.js	/^lunr.QueryParser = function (str, que
 QueryParser	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	c	class:e
 REQUIRED	_site/assets/js/lunr/lunr.js	/^  REQUIRED: 2,$/;"	p	class:lunr.Query.presence
 REQUIRED	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	p	class:e.Query.presence
-Recent Posts	_site/index.html	/^<h3 class="archive__subtitle">Recent Posts<\/h3>$/;"	j
+Recent Posts	_site/_pages/index.html	/^<h3 class="archive__subtitle">Recent Posts<\/h3>$/;"	j
 S	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Se	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Set	_site/assets/js/lunr/lunr.js	/^lunr.Set = function (elements) {$/;"	c	class:lunr
@@ -2132,9 +2143,11 @@ V	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.B
 Ve	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Vector	_site/assets/js/lunr/lunr.js	/^lunr.Vector = function (elements) {$/;"	c	class:lunr
 Vector	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	c	class:e
-Welcome to Jekyll!	_site/index.html	/^    <\/h2>$/;"	i
-Welcome to Jekyll!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome to Jekyll!<\/h1>$/;"	h
-Welcome to Jekyll!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+Welcome!	_site/_pages/index.html	/^    <\/h2>$/;"	i
+Welcome!	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome!<\/h1>$/;"	h
+Welcome!	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+Welcome!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome!<\/h1>$/;"	h
+Welcome!	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
 X	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Xt	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Y	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c
@@ -2481,14 +2494,21 @@ fired	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof
 fitVids	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:i.fn
 fitVids	_site/assets/js/plugins/jquery.fitvids.js	/^  $.fn.fitVids = function( options ) {$/;"	f	function:$.fn
 fixInput	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function fixInput( src, dest ) {$/;"	f
+flask-基础	_drafts/flask/_site/1-基础.html	/^<h3 id="flask-基础">Flask 基础<\/h3>$/;"	I
+flask-基础	_site/2022/05/30/1-基础.html	/^        <h3 id="flask-基础">Flask 基础<\/h3>$/;"	I
 fn	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:E
 fn	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^				fn = function( elem, _key, value ) {$/;"	f	function:AnonymousFunctionf615336faf00
 fn	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^		fn = function( event ) {$/;"	f	function:on
 fn	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^	jQuery.fn[ name ] = function( until, selector ) {$/;"	f	function:jQuery
+footer	_site/2022/05/30/1-基础.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/2022/05/31/1-创建项目.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/2022/05/31/1-序列化.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/2022/05/31/2-发送请求.html	/^    <div id="footer" class="page__footer">$/;"	I
 footer	_site/404.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/_pages/index.html	/^    <div id="footer" class="page__footer">$/;"	I
+footer	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <div id="footer" class="page__footer">$/;"	I
 footer	_site/about/index.html	/^    <div id="footer" class="page__footer">$/;"	I
 footer	_site/assets/css/main.css	/^article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section { displa/;"	s
-footer	_site/index.html	/^    <div id="footer" class="page__footer">$/;"	I
 footer	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <div id="footer" class="page__footer">$/;"	I
 forEach	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:Array
 forEach	_site/assets/js/plugins/gumshoe.js	/^			Array.prototype.forEach.call(navItems, (function (item) {$/;"	m	class:Array
@@ -2759,8 +2779,12 @@ m	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof mod
 m	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunction92cdadd80100
 magnitude	_site/assets/js/lunr/lunr.js	/^lunr.Vector.prototype.magnitude = function () {$/;"	m	class:lunr.Vector
 magnitude	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.Vector
+main	_site/2022/05/30/1-基础.html	/^<div id="main" role="main">$/;"	I
+main	_site/2022/05/31/1-创建项目.html	/^<div id="main" role="main">$/;"	I
+main	_site/2022/05/31/1-序列化.html	/^<div id="main" role="main">$/;"	I
+main	_site/_pages/index.html	/^<div id="main" role="main">$/;"	I
+main	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^<div id="main" role="main">$/;"	I
 main	_site/assets/css/main.css	/^article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section { displa/;"	s
-main	_site/index.html	/^<div id="main" role="main">$/;"	I
 main	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^<div id="main" role="main">$/;"	I
 manipulationTarget	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function manipulationTarget( elem, content ) {$/;"	f
 marginRight	_site/assets/js/plugins/jquery.magnific-popup.js	/^        var windowStyles = {marginRight: ''};$/;"	p	class:AnonymousFunctionca11c4df1200.windowStyles
@@ -2844,8 +2868,12 @@ p	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof mod
 p > code	_site/assets/css/main.css	/^p > code, a > code, li > code, figcaption > code, td > code { padding-top: 0.1rem; padding-botto/;"	s
 p > code:after	_site/assets/css/main.css	/^p > code:before, p > code:after, a > code:before, a > code:after, li > code:before, li > code:af/;"	s
 p > code:before	_site/assets/css/main.css	/^p > code:before, p > code:after, a > code:before, a > code:after, li > code:before, li > code:af/;"	s
-page-title	_site/index.html	/^      <h1 id="page-title" class="page__title"><\/h1>$/;"	I
-page-title	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome to Jekyll!<\/h1>$/;"	I
+page-title	_site/2022/05/30/1-基础.html	/^          <h1 id="page-title" class="page__title" itemprop="headline">基础$/;"	I
+page-title	_site/2022/05/31/1-创建项目.html	/^          <h1 id="page-title" class="page__title" itemprop="headline">创建项目$/;"	I
+page-title	_site/2022/05/31/1-序列化.html	/^          <h1 id="page-title" class="page__title" itemprop="headline">序列化和反序列化$/;"	I
+page-title	_site/_pages/index.html	/^      <h1 id="page-title" class="page__title"><\/h1>$/;"	I
+page-title	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome!<\/h1>$/;"	I
+page-title	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <h1 id="page-title" class="page__title">Welcome!<\/h1>$/;"	I
 parentOffset	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^			parentOffset = { top: 0, left: 0 };$/;"	c	class:AnonymousFunctionf615336f19d00
 parse	_site/assets/js/lunr/lunr.js	/^lunr.QueryParser.prototype.parse = function () {$/;"	m	class:lunr.QueryParser
 parse	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.QueryParser
@@ -2971,9 +2999,14 @@ sibling	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function sibling( cur, d
 siblingCheck	_site/assets/js/vendor/jquery/jquery-3.5.1.js	/^function siblingCheck( a, b ) {$/;"	f
 similarity	_site/assets/js/lunr/lunr.js	/^lunr.Vector.prototype.similarity = function (otherVector) {$/;"	m	class:lunr.Vector
 similarity	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.Vector
+site-nav	_site/2022/05/30/1-基础.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/2022/05/31/1-创建项目.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/2022/05/31/1-序列化.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/2022/05/31/2-发送请求.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
 site-nav	_site/404.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/_pages/index.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
+site-nav	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
 site-nav	_site/about/index.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
-site-nav	_site/index.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
 site-nav	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^      <nav id="site-nav" class="greedy-nav">$/;"	I
 sliceString	_site/assets/js/lunr/lunr.js	/^lunr.QueryLexer.prototype.sliceString = function () {$/;"	m	class:lunr.QueryLexer
 sliceString	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	m	class:e.QueryLexer
@@ -3153,3 +3186,17 @@ ye	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof mo
 z	_site/assets/js/lunr/lunr.min.js	/^!function(){var e=function(t){var r=new e.Builder;return r.pipeline.add(e.trimmer,e.stopWordFilt/;"	c
 zIndex	_site/assets/js/main.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	p	class:AnonymousFunction92cdadd81f400.r
 zIndex	_site/assets/js/plugins/jquery.magnific-popup.js	/^                zIndex: 9999,$/;"	p	class:AnonymousFunctionca11c4df4000.cssObj
+创建项目	_site/2022/05/31/1-创建项目.html	/^<\/h1>$/;"	h
+创建项目	_site/_pages/index.html	/^    <\/h2>$/;"	i
+创建项目	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+创建项目	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+基础	_site/2022/05/30/1-基础.html	/^<\/h1>$/;"	h
+基础	_site/_pages/index.html	/^    <\/h2>$/;"	i
+基础	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+基础	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+实现	_drafts/others/2-发送请求.md	/^## 实现$/;"	s
+序列化和反序列化	_site/2022/05/31/1-序列化.html	/^<\/h1>$/;"	h
+序列化和反序列化	_site/_pages/index.html	/^    <\/h2>$/;"	i
+序列化和反序列化	_site/_posts/2022-05-14-welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+序列化和反序列化	_site/jekyll/update/2022/05/14/welcome-to-jekyll.html	/^    <\/h2>$/;"	i
+背景	_drafts/others/2-发送请求.md	/^## 背景$/;"	s
